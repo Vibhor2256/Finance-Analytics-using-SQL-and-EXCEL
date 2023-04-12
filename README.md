@@ -21,7 +21,7 @@ Finally, a lot of the conclusions were made after the insights were drawn, some 
 5- Region wise net sales percentage was drawn out of the data for APAC, EU, LATAM, and NA regions. Also, top n and bottom n products in these regions were extracted to know customer behavior better. <br><br><br>
 
 Below are some of the tasks involved in the project, snapshots of the queries and the generated reports:-<br>
-## Task1 <br>
+## Task1
 - The product owner want to have a report of individual product sales (aggregated on a monthly basis at the product level) for its customer Croma India for FY 2021.The 
 report must have these details:- Month of Purchase, Product name, Variant, Sold quantity, Gross Price per item, Gross Price Total. Assumption: Financial Year starts on 01/Sep. <br><br> 
 
@@ -35,7 +35,7 @@ It gives us the following report: <br><br>
 ![image](https://user-images.githubusercontent.com/61342727/231562654-c8da7dae-1d13-4b1b-843f-8fe2d2442e3a.png) <br><br>
 
 
-## Task2 <br>
+## Task2
 - Give reports to the product owner about top n products, top n customers and top n markets.<br>
 Below are the queries and their generated reports simultaneously:-<br><br>
 **Challenge#1** 
@@ -52,7 +52,7 @@ After the performance improvments and added column, the below queries were used 
 ![image](https://user-images.githubusercontent.com/61342727/231567594-1b128045-34e7-4aad-8d48-0c6cf541ea2f.png)<br><br>
 
 
-## Task3 <br>
+## Task3
 - Give a chart of top 10 markets by their net sales % to the product owner.<br>
 Below are the queries and their generated reports simultaneously:-<br><br>
 ![image](https://user-images.githubusercontent.com/61342727/231570225-dd496e81-8618-4520-b9d3-6b93cfafc512.png)<br>
@@ -60,7 +60,7 @@ Below are the queries and their generated reports simultaneously:-<br><br>
 ![image](https://user-images.githubusercontent.com/61342727/231570968-0e3903d1-a6be-484a-8374-3cfe65a7dad7.png)<br><br>
 
 
-## Task4 <br>
+## Task4
 - Give a region wise % net sales report broken down by customers in that respective region for FY 2021.<br>
 Below are the queries and their generated reports simultaneously:-<br><br>
 ![image](https://user-images.githubusercontent.com/61342727/231571920-60f5ed39-bd4f-4089-96a2-c9c60d30e531.png)<br><br>
@@ -77,14 +77,14 @@ Also created stored procedure called 'get_%_net_sales_of_customers_per_region' a
 
 
 
-## Task5 <br>
+## Task5
 - Give a report which give top n products in each division of the product category by their quantity sold for FY 2021.<br>
 Below are the queries and their generated reports simultaneously:-<br><br>
 ![image](https://user-images.githubusercontent.com/61342727/231573922-011df305-7cfc-487a-9637-4308ba3ddc22.png)<br><br>
 ![image](https://user-images.githubusercontent.com/61342727/231574121-10ccb241-42b8-4713-b336-8d5b74c9ebd6.png)<br><br>
 
 
-## Task6<br>
+## Task6
 - Give a report that showcases top 2 markets in every region by their gross sales for FY 2021 <br>
 Below are the queries and their generated reports simultaneously:-<br><br>
 ![image](https://user-images.githubusercontent.com/61342727/231574693-4b47b5fb-f9b1-4f54-b308-935c875af8ec.png)<br><br>
