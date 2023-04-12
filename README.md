@@ -18,9 +18,9 @@ Finally, a lot of the conclusions were made after the insights were drawn, some 
 2- Nova pvt. ltd, Notebillig, etc have the lowest market share, and there is a need to improve the business strategy for such customers.<br><br>
 3- India is the best-selling country with the largest percentage of product sales. <br><br>
 4- South American countries like Chile, Brazil, and Columbia have very little business done by our organization. So, a better and more personalized marketing strategy would be necessary to attract these markets. <br><br>
-5- Region wise net sales percentage was drawn out of the data for APAC, EU, LATAM, and NA regions. Also, top n and bottom n products in these regions were extracted to know customer behavior better. <br><br>
+5- Region wise net sales percentage was drawn out of the data for APAC, EU, LATAM, and NA regions. Also, top n and bottom n products in these regions were extracted to know customer behavior better. <br><br><br>
 
-Below are some of the tasks, snapshots of the queries and the generated reports:-<br><br>
+Below are some of the tasks involved in the project, snapshots of the queries and the generated reports:-<br>
 ### Task1 <br>
 - The product owner want to have a report of individual product sales (aggregated on a monthly basis at the product level) for its customer Croma India for FY 2021.The 
 report must have these details:- Month of Purchase, Product name, Variant, Sold quantity, Gross Price per item, Gross Price Total. Assumption: Financial Year starts on 01/Sep. <br><br> 
