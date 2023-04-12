@@ -88,7 +88,9 @@ Below are the queries and their generated reports simultaneously:-<br><br>
 - Give a report that showcases top 2 markets in every region by their gross sales for FY 2021 <br>
 Below are the queries and their generated reports simultaneously:-<br><br>
 ![image](https://user-images.githubusercontent.com/61342727/231574693-4b47b5fb-f9b1-4f54-b308-935c875af8ec.png)<br><br>
-![image](https://user-images.githubusercontent.com/61342727/231574797-5873210b-24c8-4b2e-8731-6131b1953d3a.png)
+![image](https://user-images.githubusercontent.com/61342727/231574797-5873210b-24c8-4b2e-8731-6131b1953d3a.png)<br><br>
+
+If you reached till the end, really Appreciate you for your time! 😄:
 
 
 [Click here to go to Top](https://vibhor2256.github.io/Finance-Analytics-using-SQL-and-EXCEL/)
