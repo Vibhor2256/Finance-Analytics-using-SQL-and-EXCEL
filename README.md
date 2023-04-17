@@ -2,7 +2,7 @@
 
 # [Finance Analytics using SQL and EXCEL Portfolio](https://github.com/Vibhor2256/Finance-Analytics-using-SQL-and-EXCEL)
 
-This repository/portfolio is for a project which was created for a computer hardware producing organisation. To help the organization, better its yearly performance by getting enough insights from its database to make quick, smart data-informed decisions.
+This repository/portfolio is for a project which was created for a computer hardware producing company. To help the company, better its yearly performance by getting enough insights from its database to make quick, smart data-informed decisions.
 <br><br> 
 
 The situation in the project is that there is a computer hardware-producing organization, and we have its finance-related database. The database consists of details about the product, customers, cost of products, all the rebate offers, sales information with date of purchase, sold quantity, etc. <br><br>
