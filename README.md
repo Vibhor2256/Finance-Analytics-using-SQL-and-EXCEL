@@ -7,7 +7,7 @@ This repository/portfolio is for a project which was created for a computer hard
 
 The situation in the project is that there is a computer hardware-producing organization, and we have its finance-related database. The database consists of details about the product, customers, cost of products, all the rebate offers, sales information with date of purchase, sold quantity, etc. <br><br>
 
-The task involves SQL queries to answer ad-hoc requests for which the business needs insights. The task also focuses on improving the performance of large queries using different measures. Apart from that, it also expects certain insights in the form of proper charts and tables.<br><br>
+The task involves SQL queries to answer ad-hoc requests for which the business needs insights. The task also focuses on improving the performance of large queries using different measures. Apart from that, it also expects certain insights in the form of charts and tables.<br><br>
 
 Report-generating actions were taken using SQL for retrieving various details per business requirement. The tables were extracted in the form of comma-separated-values(CSV) files and for visualization of these insights, EXCEL charts were used. User-defined functions, stored procedures, etc were taken advantage of so that the same SQL queries can be used as a reusable asset for any past/future financial years.<br><br>
 
